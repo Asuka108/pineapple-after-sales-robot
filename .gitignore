@@ -1,1 +1,79 @@
-IyA9PT09PT09PT09PT09PT09PT09PSDnjq/looPlj5jph4/vvIjlkKvlr4bpkqXvvIkgPT09PT09PT09PT09PT09PT09PT0KLmVudgouZW52LmxvY2FsCi5lbnYuKi5sb2NhbAoqLmVudgohKi5lbnYuZXhhbXBsZQoKIyA9PT09PT09PT09PT09PT09PT09PSDmlbDmja7lupPlpIfku73vvIjlkKvlr4bnoIHlk4jluIzvvIkgPT09PT09PT09PT09PT09PT09PT0KKi5zcWwKCiMgPT09PT09PT09PT09PT09PT09PT0g6YOo572y6ISa5pys77yI5ZCr5pyN5Yqh5Zmo5a+G56CB77yJID09PT09PT09PT09PT09PT09PT09CmMvZGVwbG95L2RlcGxveS5weQrlpKfmlbDmja4vZGVwbG95LnB5CuWkp+aVsOaNri9kZXBsb3lfdXBkYXRlLnB5CuWkp+aVsOaNri9kZXBsb3kuc2gK5aSn5pWw5o2uL2RlcGxveV9hbGwuc2gK5aSn5pWw5o2uL3NldHVwLnNoCgojID09PT09PT09PT09PT09PT09PT09IOacjeWKoeWZqOWkh+S7vSA9PT09PT09PT09PT09PT09PT09PQrkupHmnI3liqHlmajlpIfku70vCgojID09PT09PT09PT09PT09PT09PT09IOWboumYn+WNj+S9nOaWh+S7tiA9PT09PT09PT09PT09PT09PT09PQpsZWdhY3kvCgojID09PT09PT09PT09PT09PT09PT09IOWQq+WvhueggeeahOW3peWFt+iEmuacrCA9PT09PT09PT09PT09PT09PT09PQppbnNlcnRfYXBwbGVfcHJvZHVjdHMucHkKdXBkYXRlX2tub3dsZWRnZV9iYXNlLnB5CgojID09PT09PT09PT09PT09PT09PT09IOa1i+ivleiEmuacrCA9PT09PT09PT09PT09PT09PT09PQp0ZXN0XyoucHkKCiMgPT09PT09PT09PT09PT09PT09PT0gUHl0aG9uID09PT09PT09PT09PT09PT09PT09Cl9fcHljYWNoZV9fLwoqLnB5W2NvZF0KKiRweS5jbGFzcwoqLnNvCi5QeXRob24KdmVudi8KZW52LwoqLmVnZy1pbmZvLwpkaXN0LwpidWlsZC8KKi5zcWxpdGUzCmJhY2tlbmQvZGF0YS8KCiMgPT09PT09PT09PT09PT09PT09PT0gQW5kcm9pZCA9PT09PT09PT09PT09PT09PT09PQoqLmFwawoqLmFwXwoqLmRleAoqLmNsYXNzCioqL2J1aWxkLwoqKi8uZ3JhZGxlLwpsb2NhbC5wcm9wZXJ0aWVzCmdvb2dsZS1zZXJ2aWNlcy5qc29uCgojID09PT09PT09PT09PT09PT09PT09IElERSA9PT09PT09PT09PT09PT09PT09PQouaWRlYS8KLnZzY29kZS8KKi5zd3AKKi5zd28KKn4KCiMgPT09PT09PT09PT09PT09PT09PT0g57O757uf5paH5Lu2ID09PT09PT09PT09PT09PT09PT09Ci5EU19TdG9yZQpUaHVtYnMuZGIKZGVza3RvcC5pbmkKKi5sb2cKKi50bXAKKi5iYWsKCiMgPT09PT09PT09PT09PT09PT09PT0g5a6J5YWoID09PT09PT09PT09PT09PT09PT09CioucGVtCioua2V5CioucDEyCgojID09PT09PT09PT09PT09PT09PT09IOaVtOeQhuaWsOWiniA9PT09PT09PT09PT09PT09PT09PQpjaGF0LmRiCmFwa3Rvb2wuamFyCuWkp+aVsOaNri/mioDmnK/pgInlnosvKiovKi43ego=
+# ==================== 环境变量（含密钥） ====================
+.env
+.env.local
+.env.*.local
+*.env
+!*.env.example
+
+# ==================== 数据库备份（含密码哈希） ====================
+*.sql
+
+# ==================== 部署脚本（含服务器密码） ====================
+c/deploy/deploy.py
+大数据/deploy.py
+大数据/deploy_update.py
+大数据/deploy.sh
+大数据/deploy_all.sh
+大数据/setup.sh
+
+# ==================== 服务器备份 ====================
+云服务器备份/
+
+# ==================== 团队协作文件 ====================
+legacy/
+
+# ==================== 含密码的工具脚本 ====================
+insert_apple_products.py
+update_knowledge_base.py
+
+# ==================== 测试脚本 ====================
+test_*.py
+
+# ==================== Python ====================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+*.egg-info/
+dist/
+build/
+*.sqlite3
+backend/data/
+
+# ==================== Android ====================
+*.apk
+*.ap_
+*.dex
+*.class
+**/build/
+**/.gradle/
+local.properties
+google-services.json
+
+# ==================== IDE ====================
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# ==================== 系统文件 ====================
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log
+*.tmp
+*.bak
+
+# ==================== 安全 ====================
+*.pem
+*.key
+*.p12
+
+# ==================== 整理新增 ====================
+chat.db
+apktool.jar
+大数据/技术选型/**/*.7z
