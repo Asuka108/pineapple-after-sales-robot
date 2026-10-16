@@ -88,4 +88,4 @@ cd c/android
 ## 说明
 
 - 本仓库为课程学习项目,商品数据(AirPods 系列)仅用于演示。
-- 仓库名「-」为占位符,可在 GitHub Settings → General → Repository name 改为如 `pineapple-ai-support`。
+- 仓库名已从占位符「-」更名为 `pineapple-after-sales-robot`(旧链接自动重定向)。
