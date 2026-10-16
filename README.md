@@ -1,1 +1,91 @@
-IyDoj6DokJ3ok53niZnogLPmnLogwrcg5ZSu5ZCOIEFJIOWuouacjeezu+e7nyjor77nqIvpobnnm64pCgo+IOOAjOaVsOaNruW6k+S4jiBBSSDljY/lkIzlvIDlj5Hlrp7miJjjgI3lsI/nu4TkvZzkuJrku5PlupMsKirku4XkvpvlrabkuaDkvb/nlKgqKuOAggo+IOS4gOS4qumdouWQkeiPoOiQneiTneeJmeiAs+acuueUqOaIt+eahCBBSSDllK7lkI7lrqLmnI3ns7vnu586QW5kcm9pZCDlrqLmiLfnq68gKyBGYXN0QVBJIOWQjuerryArIERlZXBTZWVrIOWkp+aooeWeiyArIOefpeivhuW6k+ajgOe0oizpmYTluKbllYbln44o5ZWG5ZOBL+i0reeJqei9pi/orqLljZUp44CB5Lq65bel5a6i5pyN6L2s5o6lKFdlYlNvY2tldCnlkoznrqHnkIblkI7lj7DjgIIKCiMjIOWKn+iDveaAu+iniAoKfCDmqKHlnZcgfCDor7TmmI4gfAp8LS0tfC0tLXwKfCDwn6SWIEFJIOWvueivnSB8IERlZXBTZWVrIOWkp+aooeWeiyArIOS4k+S4muefpeivhuW6kyg3IOWkp+exuyAzNSsg5p2hKSzlpJrova7lr7nor53jgIHkuIrkuIvmloforrDlv4bjgIHpnZ7nm7jlhbPpl67popjoh6rliqjlvJXlr7wgfAp8IPCfp5HigI3wn5K8IOS6uuW3peWuouacjSB8IOWvueivneS4reOAjOi9rOS6uuW3peOAjeKGkiBXZWJTb2NrZXQg5a6e5pe25o6l5YWlLOWuouacjeS4i+ePreWQjuiHquWKqOaBouWkjSBBSSDlupTnrZQgfAp8IPCfm5Ig5ZWG5Z+OIHwg5ZWG5ZOB5YiX6KGoL+ivpuaDhSjnnJ/lrp4gQWlyUG9kcyDlhajns7vmlbDmja4p44CB6LSt54mp6L2m44CB5LiL5Y2V44CB6K6i5Y2V5YiX6KGo5LiO6K+m5oOFIHwKfCDwn5OLIOWvueivneWOhuWPsiB8IOS/neWtmOOAgeWNleadoeWIoOmZpOOAgeS4gOmUrua4heepuiB8Cnwg8J+UkCDnlKjmiLfkvZPns7sgfCDms6jlhowv55m75b2V44CBVG9rZW4g6Ym05p2D44CB6ZmQ5rWB5Lit6Ze05Lu2IHwKfCDwn5al77iPIOeuoeeQhuWQjuWPsCB8IEg1IOe9kemhteWQjuWPsCjllYblk4Hlop7liKDmlLnjgIHlm77niYfkuIrkvKDjgIHnn6Xor4blupPnrqHnkIYpIHwKfCDwn5OxIOWkmuerryB8IOWOn+eUnyBBbmRyb2lkIEFwcOOAgeW+ruS/oeWwj+eoi+W6jyjljoblj7LniYjmnKwp44CBSDUg5LiL6L296aG1KOaJq+eggeijhSBBUEspIHwKCiMjIOebruW9lee7k+aehAoKYGBgCi4K4pSc4pSA4pSAIGMvICAgICAgICAgICAgICAgICAg4piFIOW9k+WJjeS4u+mhueebrijmnIDmlrDmnIDlrozmlbTnmoTkuIDniYgpCuKUgiAgIOKUnOKUgOKUgCBhbmRyb2lkLyAgICAgICAgICAgIEFuZHJvaWQg5a6i5oi356uvKEphdmEsY29tLmFpcnBvZHMuYXNzaXN0YW50KQrilIIgICDilJzilIDilIAgYmFja2VuZC8gICAgICAgICAgICBGYXN0QVBJIOWQjuerryhhdXRoIC8gY2hhdCAvIGtub3dsZWRnZSkK4pSCICAg4pSc4pSA4pSAIGRlcGxveS8gICAgICAgICAgICAg6YOo572y6YWN572uKG5naW5444CBc3lzdGVtZOOAgemDqOe9suiEmuacrCkK4pSCICAg4pSc4pSA4pSAIGRvY3MvICAgICAgICAgICAgICAg5YWo6YOo6K++56iL5paH5qGjKOmcgOaxguOAgeWOn+Wei+OAgea1i+ivleOAgeernuWTgeWIhuaekOetiSkK4pSCICAg4pSU4pSA4pSAIFJFQURNRS5tZCAgICAgICAgICAg5Li76aG555uu6K+m57uG6K+05piOKOaetuaehOOAgeaOpeWPo+OAgeWQr+WKqOatpemqpCkK4pSc4pSA4pSAIOWkp+aVsOaNri8gICAgICAgICAgICAgIOOAjOWkp+aVsOaNruOAjeaWueWQkee7hOWRmOeahOadkOaWmQrilIIgICDilJzilIDilIAg5ZCO56uvLyAgICAgICAgICAgICAgICDlkI7nq6/ov5vpmLbniYg65aSa5LqGIGFkbWluL2FnZW50L2NhcnQvb3JkZXJzL3Byb2R1Y3RzL3dlYnNvY2tldCDot6/nlLHjgIEK4pSCICAg4pSCICAgICAgICAgICAgICAgICAgICAgICAg566h55CG5ZCO5Y+wIGFkbWluL2luZGV4Lmh0bWzjgIFBUEsg5LiL6L296aG1IGRvd25sb2FkLwrilIIgICDilJzilIDilIAg5oqA5pyv6YCJ5Z6LLyAgICAgICAgICAgIOivvueoi+ivvuS7tihNeVNRTOOAgVB5dGhvbiDmk43kvZzmlbDmja7lupPnrYkgUERGLOesrOS4ieaWuei1hOaWmSkK4pSCICAg4pSc4pSA4pSAIERFU0lHTi5tZCAgICAgICAgICAgIFVJIOiuvuiuoeinhOiMgyjorr7orqHku6TniYwpCuKUgiAgIOKUlOKUgOKUgCBjcmVhdGVfd29yZCoucHkgICAgICDoh6rliqjnlJ/miJAgV29yZCDmiqXlkYrnmoTohJrmnKwK4pSc4pSA4pSAIGxlZ2FjeS8gICAgICAgICAgICAg5Y6G5Y+y5Y2P5L2c5b+r54WnKOaXqeacn+WIhue7hOaPkOS6pCzku4XkvZzlrZjmoaMpCuKUgiAgIOKUnOKUgOKUgCDliY3nq68vICAgICAgICAgICAgICAgICDliY3nq6/lv6vnhacgKyDmiZPljIXlpb3nmoQgYXBwLWRlYnVnLmFwawrilIIgICDilJzilIDilIAg5YmN56uv5byA5Y+RICBVSeiuvuiuoSAg5rWL6K+V5bel56iL5biIICgxKS8gICDliY3nq68vVUkv5rWL6K+V5ZCM5a2m55qE5a6M5pW05YyFKOWQq+Wwj+eoi+W6jykK4pSCICAg4pSU4pSA4pSAIOWQjuerry8gICAgICAgICAgICAgICAgIOaXqeacn+WQjuerr+adgumhuQrilJzilIDilIAgZG9jcy8gICAgICAgICAgICAgICDpm7bmlaPov5DokKXmlofmoaPkuI7lm77niYco5ZWG5ZOB5qih5p2/44CB5oiq5Zu+562JKQrilJTilIDilIAgc2NyaXB0cy90ZXN0cy8gICAgICBBUEkg6IGU6LCD5rWL6K+V6ISa5pysKHRlc3RfKi5weSkKYGBgCgoqKuWTquS4gOeJiOaYr+acgOaWsOeahD8qKiDigJTigJQgYGMvYCDnm67lvZUo5Lul5Y+KIGDlpKfmlbDmja4v5ZCO56uvL2Ag6YeM55qE6L+b6Zi26Lev55Sx5a6e546wKeOAgmBsZWdhY3kvYCDkuIvnmoTkuInkuKrnm67lvZXmmK/nu4TlkZjml6nmnJ/nmoTmlbTljIXmj5DkuqQs5YaF5a655bey5aSn6YOo5YiG5bm25YWlIGBjL2As5L+d55WZ5LuF5L2c5a2m5Lmg6K6w5b2V44CCCgojIyDmioDmnK/moIgKCi0gKirlkI7nq68qKjpQeXRob24gwrcgRmFzdEFQSSDCtyBVdmljb3JuIMK3IE15U1FMIC8gU1FMaXRlIMK3IGppZWJhIMK3IFdlYlNvY2tldCDCtyByZXF1ZXN0cwotICoqQUkqKjpEZWVwU2VlayBBUEkgKyDmj5DnpLror43lt6XnqIsgKyDnn6Xor4blupPmo4DntKIKLSAqKuWuouaIt+erryoqOkFuZHJvaWQoSmF2YSxNYXRlcmlhbCBEZXNpZ24sUmV0cm9maXQgKyBPa0h0dHAp44CB5b6u5L+h5bCP56iL5bqPCi0gKirpg6jnvbIqKjpOZ2lueCDCtyBzeXN0ZW1kIMK3IFB5dGhvbiDpg6jnvbLohJrmnKwKCiMjIOW/q+mAn+W8gOWniwoKIyMjIOWQjuerrwoKYGBgYmFzaApjZCDlpKfmlbDmja4v5ZCO56uvICAgICAgICAgICMg5Yqf6IO95pyA5YWo55qE5LiA54mIKOaIliBjL2JhY2tlbmQs57K+566A54mIKQpwaXAgaW5zdGFsbCAtciByZXF1aXJlbWVudHMudHh0CiMg6YWN572uIC5lbnYo5pWw5o2u5bqT6L+e5o6l44CBRGVlcFNlZWsgQVBJIEtleSDnrYkpCnV2aWNvcm4gbWFpbjphcHAgLS1ob3N0IDAuMC4wLjAgLS1wb3J0IDgwMDAKYGBgCgrmjqXlj6PmlofmoaM6YGh0dHA6Ly8xMjcuMC4wLjE6ODAwMC9kb2NzYDvnrqHnkIblkI7lj7A6YC9hZG1pbmA7QVBLIOS4i+i9vemhtTpgL2Rvd25sb2FkYOOAggoKIyMjIEFuZHJvaWQKCmBgYGJhc2gKY2QgYy9hbmRyb2lkCi4vZ3JhZGxldyBhc3NlbWJsZURlYnVnCmBgYAoK55SoIEFuZHJvaWQgU3R1ZGlvIOaJk+W8gCBgYy9hbmRyb2lkYCDnm7TmjqXov5DooYzkuZ/lj6/ku6U7YEFwaUNsaWVudC5qYXZhYCDph4zphY3nva7lkI7nq6/lnLDlnYDjgIIKCiMjIyDpg6jnvbIKCuWPguiAgyBgYy9SRUFETUUubWRgIOS4jiBgYy9kZXBsb3kvYChuZ2lueC5jb25m44CBc3lzdGVtZCBzZXJ2aWNl44CBc2V0dXAuc2gp44CCCuKaoO+4jyDlkKvmnI3liqHlmajlr4bnoIHnmoTpg6jnvbLohJrmnKzlt7LlnKggYC5naXRpZ25vcmVgIOS4reaOkumZpCzku5PlupPlhoXkv53nlZnnmoTmmK/ml6nmnJ/niYjmnKws6K+35LiN6KaB5YaN5o+Q5Lqk5piO5paH5a+G56CB44CCCgojIyDmlofmoaPntKLlvJUoYy9kb2NzKQoKfCDmlofmoaMgfCDlhoXlrrkgfAp8LS0tfC0tLXwKfCDnn6Xor4blupPmlofmoaMubWQgfCAzNSsg5p2h5ZSu5ZCO55+l6K+G5p2h55uuIHwKfCBVSeWOn+Wei+aPj+i/sC5tZCAvIOeuoeeQhuWRmOWQjuWPsOWOn+Wei+aPj+i/sC5tZCB8IOeVjOmdouWOn+WeiyB8Cnwg5rWL6K+V55So5L6L6KGoLm1kIC8gQUnlm57nrZTmtYvor5XmiqXlkYpfdjEubWQgLyBCdWfliJfooagubWQgfCDmtYvor5XorrDlvZUgfAp8IOeUqOaIt+eUu+WDj+aWh+ahoy5tZCAvIOeUqOaIt+S9k+mqjOWPjemmiOS4juS8mOWMluiusOW9lS5tZCB8IOeUqOeglCB8Cnwg56ue5ZOB5L2T6aqM5oql5ZGKLm1kIC8g56ue5ZOB5a+55q+U5YiG5p6Q6KGoLm1kIHwg56ue5ZOB5YiG5p6QIHwKCiMjIOivtOaYjgoKLSDmnKzku5PlupPkuLror77nqIvlrabkuaDpobnnm64s5ZWG5ZOB5pWw5o2uKEFpclBvZHMg57O75YiXKeS7heeUqOS6jua8lOekuuOAggotIOS7k+W6k+WQjeOAjC3jgI3kuLrljaDkvY3nrKYs5Y+v5ZyoIEdpdEh1YiBTZXR0aW5ncyDihpIgR2VuZXJhbCDihpIgUmVwb3NpdG9yeSBuYW1lIOaUueS4uuWmgiBgcGluZWFwcGxlLWFpLXN1cHBvcnRg44CCCg==
+# 菠萝蓝牙耳机 · 售后 AI 客服系统(课程项目)
+
+> 「数据库与 AI 协同开发实战」小组作业仓库,**仅供学习使用**。
+> 一个面向菠萝蓝牙耳机用户的 AI 售后客服系统:Android 客户端 + FastAPI 后端 + DeepSeek 大模型 + 知识库检索,附带商城(商品/购物车/订单)、人工客服转接(WebSocket)和管理后台。
+
+## 功能总览
+
+| 模块 | 说明 |
+|---|---|
+| 🤖 AI 对话 | DeepSeek 大模型 + 专业知识库(7 大类 35+ 条),多轮对话、上下文记忆、非相关问题自动引导 |
+| 🧑‍💼 人工客服 | 对话中「转人工」→ WebSocket 实时接入,客服下班后自动恢复 AI 应答 |
+| 🛒 商城 | 商品列表/详情(真实 AirPods 全系数据)、购物车、下单、订单列表与详情 |
+| 📋 对话历史 | 保存、单条删除、一键清空 |
+| 🔐 用户体系 | 注册/登录、Token 鉴权、限流中间件 |
+| 🖥️ 管理后台 | H5 网页后台(商品增删改、图片上传、知识库管理) |
+| 📱 多端 | 原生 Android App、微信小程序(历史版本)、H5 下载页(扫码装 APK) |
+
+## 目录结构
+
+```
+.
+├── c/                  ★ 当前主项目(最新最完整的一版)
+│   ├── android/            Android 客户端(Java,com.airpods.assistant)
+│   ├── backend/            FastAPI 后端(auth / chat / knowledge)
+│   ├── deploy/             部署配置(nginx、systemd、部署脚本)
+│   ├── docs/               全部课程文档(需求、原型、测试、竞品分析等)
+│   └── README.md           主项目详细说明(架构、接口、启动步骤)
+├── 大数据/              「大数据」方向组员的材料
+│   ├── 后端/                后端进阶版:多了 admin/agent/cart/orders/products/websocket 路由、
+│   │                        管理后台 admin/index.html、APK 下载页 download/
+│   ├── 技术选型/            课程课件(MySQL、Python 操作数据库等 PDF,第三方资料)
+│   ├── DESIGN.md            UI 设计规范(设计令牌)
+│   └── create_word*.py      自动生成 Word 报告的脚本
+├── legacy/             历史协作快照(早期分组提交,仅作存档)
+│   ├── 前端/                 前端快照 + 打包好的 app-debug.apk
+│   ├── 前端开发  UI设计  测试工程师 (1)/   前端/UI/测试同学的完整包(含小程序)
+│   └── 后端/                 早期后端杂项
+├── docs/               零散运营文档与图片(商品模板、截图等)
+└── scripts/tests/      API 联调测试脚本(test_*.py)
+```
+
+**哪一版是最新的?** —— `c/` 目录(以及 `大数据/后端/` 里的进阶路由实现)。`legacy/` 下的三个目录是组员早期的整包提交,内容已大部分并入 `c/`,保留仅作学习记录。
+
+## 技术栈
+
+- **后端**:Python · FastAPI · Uvicorn · MySQL / SQLite · jieba · WebSocket · requests
+- **AI**:DeepSeek API + 提示词工程 + 知识库检索
+- **客户端**:Android(Java,Material Design,Retrofit + OkHttp)、微信小程序
+- **部署**:Nginx · systemd · Python 部署脚本
+
+## 快速开始
+
+### 后端
+
+```bash
+cd 大数据/后端          # 功能最全的一版(或 c/backend,精简版)
+pip install -r requirements.txt
+# 配置 .env(数据库连接、DeepSeek API Key 等)
+uvicorn main:app --host 0.0.0.0 --port 8000
+```
+
+接口文档:`http://127.0.0.1:8000/docs`;管理后台:`/admin`;APK 下载页:`/download`。
+
+### Android
+
+```bash
+cd c/android
+./gradlew assembleDebug
+```
+
+用 Android Studio 打开 `c/android` 直接运行也可以;`ApiClient.java` 里配置后端地址。
+
+### 部署
+
+参考 `c/README.md` 与 `c/deploy/`(nginx.conf、systemd service、setup.sh)。
+⚠️ 含服务器密码的部署脚本已在 `.gitignore` 中排除,仓库内保留的是早期版本,请不要再提交明文密码。
+
+## 文档索引(c/docs)
+
+| 文档 | 内容 |
+|---|---|
+| 知识库文档.md | 35+ 条售后知识条目 |
+| UI原型描述.md / 管理员后台原型描述.md | 界面原型 |
+| 测试用例表.md / AI回答测试报告_v1.md / Bug列表.md | 测试记录 |
+| 用户画像文档.md / 用户体验反馈与优化记录.md | 用研 |
+| 竞品体验报告.md / 竞品对比分析表.md | 竞品分析 |
+
+## 说明
+
+- 本仓库为课程学习项目,商品数据(AirPods 系列)仅用于演示。
+- 仓库名「-」为占位符,可在 GitHub Settings → General → Repository name 改为如 `pineapple-ai-support`。
